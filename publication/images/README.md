@@ -1,0 +1,1 @@
+Archivo inicial para un proyecto vacío
